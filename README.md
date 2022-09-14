@@ -1,4 +1,12 @@
- # List of jobs show equity, salary expectations, and associated company. They also link to information about the company.
+# Login or sign up to Jobly to see companies and job listings!
+![image](https://user-images.githubusercontent.com/104921279/190259334-f70597d5-caf0-46e8-8909-8e813aa66f82.png)
+
+
+# Companies are listed with their descriptions and link to company specific job listings.  
+![image](https://user-images.githubusercontent.com/104921279/190259225-6a31ec03-4986-4af7-b6a1-3506b042d1fe.png)
+
+
+# List of jobs show equity, salary expectations, and associated company. They also link to information about the company.
 ![image](https://user-images.githubusercontent.com/104921279/190259013-b7266bce-7752-4e91-b9bd-506b3189ada6.png)
 
 
