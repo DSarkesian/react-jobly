@@ -1,3 +1,11 @@
+ # List of jobs show equity, salary expectations, and associated company. They also link to information about the company.
+![image](https://user-images.githubusercontent.com/104921279/190259013-b7266bce-7752-4e91-b9bd-506b3189ada6.png)
+
+
+# Edit your profile in case of any updates.
+![image](https://user-images.githubusercontent.com/104921279/190258902-ed639afa-622c-4b77-98f8-29395f51cf39.png)
+
+
 # React components design plan
 ![image](https://user-images.githubusercontent.com/104921279/190258747-2fd0eb76-54cc-4c3a-9cfa-4bd4a282064c.png)
 
