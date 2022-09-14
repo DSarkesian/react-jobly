@@ -1,3 +1,7 @@
+# React components design plan
+![image](https://user-images.githubusercontent.com/104921279/190258747-2fd0eb76-54cc-4c3a-9cfa-4bd4a282064c.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
